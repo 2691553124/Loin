@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button mBtRetion;
     private ImPHomePersenter imPHomePersenter;
     private ArrayList<LoginBean> list;
-
+    private String a ="哈哈";
     // 秦浩雄  H1811B
     @Override
     protected void onCreate(Bundle savedInstanceState) {
